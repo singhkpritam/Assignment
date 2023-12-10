@@ -1,0 +1,33 @@
+Q1:- What is single page applicaton?
+Ans:- Single page application in user visiting the website firsttime it loading the html, css, javascript in website then if
+      any visiting in internal side of in same website it only change those we are open. because it previous code which are open
+      it not open again  only chnage those thing if are we need to visting.
+***********************
+Q2:- What is DNS and IP Address?
+Ans:- DNS is the domain Name System which are name to searching the web broweser because it to in previous days it so difficult to learn the 
+      Bit code. Example(www.google.com).
+      IP Address is the internet protocol address which are numerical value which are given by indivisual value to all the
+      computer device because the connect to the internet.
+***********************
+Q:-3 What Is DOM in JS?
+Ans:- DOM is the ducument object model is the tree like structure. DOM is the help to target the element and perform or 
+      using the EventLintiner to use them so which are Dom using in Javascript.
+***********************
+Q:4- What is React and why we use React instead of JS?
+Ans:- React is the library and the Single page website which are the using the changing the as per as the interest the user need.
+      Useing of react instead of js React is a tool built with JavaScript rather than something used "instead of" 
+      JavaScript. React itself is written in JavaScript and is a library that facilitates the creation of user interfaces.
+***********************
+Q5:- What is JSX and why do we use it instead of js?
+Ans:- JSX is stand javascript XML. it is using for both code html,Javascript code together use in one platform.
+***********************
+Q6:- What is package.json?
+Ans:- Package.json is a file used in Node.js-based projects to manage project metadata and storing the important information.
+***********************
+Q:7- What is the Difference between react and react native? Which one is library or framework?
+Ans:- react is use to create web application which run in web browser while react native is use to create the app and mobile application i.e run on android and IOS.
+      React is the library while react native is a framework.
+***********************
+Q:- What is difference between class and functional component?
+Ans:- Class component are suitable for complex problem where as functional component is easy to use and better performance and in current time functional component are use.  
+        
